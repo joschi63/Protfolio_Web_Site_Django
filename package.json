@@ -1,0 +1,23 @@
+{
+  "name": "protfolio_web_site_django",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joschi63/Protfolio_Web_Site_Django.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joschi63/Protfolio_Web_Site_Django/issues"
+  },
+  "homepage": "https://github.com/joschi63/Protfolio_Web_Site_Django#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
