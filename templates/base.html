@@ -13,7 +13,7 @@
             <a href="{% url 'project_index' %}" class="btn btn-outline-success mt-3 mb-3">< Back to Projects</a>
         {% endif %}
         {% if 'detail' not in request.path %}
-        <ul class="nav nav-pills nav-fill mb-3">
+        <ul class="nav nav-pills nav-fill mt-3 mb-3">
             <li class="nav-item">
                 <a class="nav-link {% if request.resolver_match.url_name == 'home' %} active {% endif %}" href="{% url 'home' %}">Home</a>
             </li>
